@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 220
+slug  : karsa-cyberpunk-v2
+seal  : 4e026363dab848b6c6533a7a225337ccd1b4cad0cf2dc6684024def4ad3e745b
+prev  : 54b9debeee6f3d88808fe0766098d0b3dd12933c3ea62ff497ac21d1e214823c
+link  : 00fc6722a0a0d43a687d00f00526eadeee5373dd0c79d4f707e70fa3c11fc9c8
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
